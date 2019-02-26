@@ -17,7 +17,7 @@ emerging computer hardware technology and culture, through a community of people
 1.4 	In all matters not specifically dealt with herein, the procedures set out in the latest edition of
 Guide for Meetings and Organizations by N.E.R. Renton shall apply.
 
-## Definitions
+Definitions
 
 1.5 	For the purposes of this Constitution:
 1.5.1 	The University shall mean the University of New South Wales; 
