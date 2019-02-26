@@ -3,7 +3,12 @@ Public documents related to the society itself
 
 # Table of Contents
 [Rules](rules.md)
+
 [Constitution](constitution.md)
+
+[Server Changes FAQ](server_changes.md)
+
+[Weeb Content Guidelines](weeb.md)
 
 # Notes
 * **Changes to the constitution must be done through PR after being approved at an [AE]GM**
