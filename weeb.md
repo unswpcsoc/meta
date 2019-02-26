@@ -35,7 +35,7 @@ Very Good:
 
     Anon: light yagami what now?!
 
-    You: \*dyes
+    You: *dyes
 
     You: his hair
 
