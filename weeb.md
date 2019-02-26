@@ -21,16 +21,26 @@ Adapted from https://danbooru.donmai.us/wiki_pages/10920
 **If posting in #mobage, some characters/character art is not permitted to be posted at all. Please check pinned messages for a list on these characters.**
 
 # No Spoilers (for Shows about plot)
-
 Bad: *unmemorable side character* dies in the *why is this arc so fucking boring* arc
+
 Good: I’m talking about what happened to x in the y arc, remember that?
+
 Also Good: Yo, remember when Yui stole Mio’s strawberry? That was fucked man.
+
 Very Good: 
+
 ```
+
     You: and then the scene where light dies
+
     Anon: light yagami what now?!
+
     You: \*dyes
+
     You: his hair
+
     Anon: oh ok
+
 ```
+
 Excellent:
