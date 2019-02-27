@@ -1,553 +1,352 @@
-Arc @ UNSW Limited
+# Arc @ UNSW Limited Model Regular Club/Society CONSTITUTION
 
-Model Regular Club/Society
+# Computer Enthusiasts Society CONSTITUTION
 
-CONSTITUTION
-
-
-
-
-
-Computer Enthusiasts Society
-
-CONSTITUTION
-
-
+```
 
 1	Introduction
 
+    1.1 	The official name of the club shall be Computer Enthusiasts Society.
 
+    1.1.1 	The acronym of the club shall be PCSoc.
 
-1.1 	The official name of the club shall be Computer Enthusiasts Society.
+    1.2 	The club shall be affiliated to Arc. 
 
-1.1.1 	The acronym of the club shall be PCSoc.
+    1.3	The aims and objectives of the club are:
 
-1.2 	The club shall be affiliated to Arc. 
+    1.3.1 	To provide an opportunity for people to learn, discuss and engage with current and emerging computer hardware technology and culture, through a community of people interested in building and optimising PCs. 
 
-1.3	The aims and objectives of the club are:
-
-1.3.1 	To provide an opportunity for people to learn, discuss and engage with current and
-
-emerging computer hardware technology and culture, through a community of people interested in building and optimising PCs. 
-
-1.4 	In all matters not specifically dealt with herein, the procedures set out in the latest edition of
-
-Guide for Meetings and Organizations by N.E.R. Renton shall apply.
-
-
+    1.4 	In all matters not specifically dealt with herein, the procedures set out in the latest edition of Guide for Meetings and Organizations by N.E.R. Renton shall apply.
 
 Definitions
 
+    1.5 	For the purposes of this Constitution:
 
+        1.5.1 	The University shall mean the University of New South Wales; 
 
-1.5 	For the purposes of this Constitution:
+        1.5.2	Arc shall mean Arc @ UNSW Limited; 
 
-1.5.1 	The University shall mean the University of New South Wales; 
+        1.5.3	 Re-affiliation shall mean re-affiliation with Arc; 
 
-1.5.2	Arc shall mean Arc @ UNSW Limited; 
+        1.5.4	 Members shall mean full members of the club; 
 
-1.5.3	 Re-affiliation shall mean re-affiliation with Arc; 
+        1.5.5 	Associate members shall mean associate members of the club; 
 
-1.5.4	 Members shall mean full members of the club; 
+        1.5.6 	The Executive shall mean the Executive of the club; 
 
-1.5.5 	Associate members shall mean associate members of the club; 
+        1.5.7 	The Committee shall mean the Executive of the club as well as any member appointed by the Executive to fill a specific role; 
 
-1.5.6 	The Executive shall mean the Executive of the club; 
+        1.5.8 	The Annual General Meeting shall mean the Annual General Meeting of the club; 
 
-1.5.7 	The Committee shall mean the Executive of the club as well as any member appointed
+        1.5.9 	An academic day shall mean a day during the first or second session of the University’s academic year which is not a Saturday, Sunday, Public Holiday or University Holiday; and 
 
-by the Executive to fill a specific role; 
+        1.5.10	Subjects shall mean units of study offered by the University in progression to the award of a degree. 
 
-1.5.8 	The Annual General Meeting shall mean the Annual General Meeting of the club; 
-
-1.5.9 	An academic day shall mean a day during the first or second session of the University’s
-
-academic year which is not a Saturday, Sunday, Public Holiday or University Holiday; and 
-
-1.5.10	Subjects shall mean units of study offered by the University in progression to the award
-
-of a degree. 
-
-1.6 Unless a contrary statement appears in Section 7 of this Constitution, the club shall be bound by
-
-all the clauses in Section 2 to Section 6 of this Constitution.
-
-
+    1.6 Unless a contrary statement appears in Section 7 of this Constitution, the club shall be bound by all the clauses in Section 2 to Section 6 of this Constitution.
 
 2 	Membership
 
+    2.1 	Contact details for members of your club are to remain with the Executive and Arc to have sole access. Contact details are not to be given or sold to any other person. 
 
+    2.2 	The club shall be recognized as a Financial club. 
 
-2.1 	Contact details for members of your club are to remain with the Executive and Arc to have sole
+    2.3 	Full membership of the club shall be open to all UNSW students subject to affiliation requirements of Arc, and they shall be required to pay an annual club membership fee of at least $0, and complete a membership form. 
 
-access. Contact details are not to be given or sold to any other person. 
+    2.4 	Associate membership shall be open to all persons who are not UNSW students subject to affiliation requirements of Arc, provided that they pay a membership fee that is set by the club Executive, and they complete a membership form prepared by the club Executive. 
 
-2.2 	The club shall be recognized as a Financial club. 
+    2.5 	The duration of a person’s membership shall be until the club’s next Annual General Meeting after they have become a member, or until the end of Week One in Session One of the University year after they have become a member, whichever is the later. 
 
-2.3 	Full membership of the club shall be open to all UNSW students subject to affiliation
+    2.6 	The club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership. 
 
-requirements of Arc, and they shall be required to pay an annual club membership fee of at least $0, and complete a membership form. 
+    2.7 	Notwithstanding clause 2.8, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 3.6. 
 
-2.4 	Associate membership shall be open to all persons who are not UNSW students subject to
+    2.8	Notwithstanding clause 2.8, a member or associate member of a club may have their membership terminated after the following procedure is followed: 
 
-affiliation requirements of Arc, provided that they pay a membership fee that is set by the club
+    2.8.1	A motion is carried by the Executive, or the Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
 
-Executive, and they complete a membership form prepared by the club Executive. 
+    2.8.2	The members of the club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.2; 
 
-2.5 	The duration of a person’s membership shall be until the club’s next Annual General Meeting
+    2.8.3 	The member concerned is notified in writing of the procedures and reasons for proceedings at least seven (7) days prior to the meeting. 
 
-after they have become a member, or until the end of Week One in Session One of the University year after they have become a member, whichever is the later. 
+    2.8.4 	The member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting.
 
-2.6 	The club shall comply with Anti-Discrimination legislation in all of its activities and procedures,
+    2.8.5 	The motion is carried by the Extraordinary General Meeting. 
 
-including the granting of club membership. 
-
-2.7 	Notwithstanding clause 2.8, a member of a club Executive may have their position declared
-
-vacant according to the procedures set out in Section 3.6. 
-
-2.8	Notwithstanding clause 2.8, a member or associate member of a club may have their
-
-membership terminated after the following procedure is followed: 
-
-2.8.1	A motion is carried by the Executive, or the Executive is petitioned by fifteen (15)
-
-members to instigate impeachment proceedings;
-
-2.8.2	The members of the club are notified of the proceedings formally as a motion on notice
-
-to an Extraordinary General Meeting under Section 4.2; 
-
-2.8.3 	The member concerned is notified in writing of the procedures and reasons for
-
-proceedings at least seven (7) days prior to the meeting. 
-
-2.8.4 	The member concerned is given five (5) minutes to speak against the motion at the
-
-Extraordinary General Meeting.
-
-2.8.5 	The motion is carried by the Extraordinary General Meeting. 
-
-2.9	Any member of a club or club Executive who believes they have been wrongly expelled may
-
-appeal to Arc, who will arrive at the final resolution of the matter.
-
-
+    2.9	Any member of a club or club Executive who believes they have been wrongly expelled may appeal to Arc, who will arrive at the final resolution of the matter.
 
 3	Executive
 
+    3.1	The Executive of the club shall be elected from the full members at the Annual General Meeting and shall consist of at least: 
 
+        3.1.1 	Two (2) Co-presidents; 
 
-3.1	The Executive of the club shall be elected from the full members at the Annual General Meeting
+        3.1.2 	One (1) Secretary; 
 
-and shall consist of at least: 
+        3.1.3 	One (1) Treasurer; 
 
-3.1.1 	Two (2) Co-presidents; 
+        3.1.4	 One (1) Arc Delegate; 
 
-3.1.2 	One (1) Secretary; 
+        3.1.5 	One (1) Events Director; 
 
-3.1.3 	One (1) Treasurer; 
+        3.1.6 	One (1) Marketing Director; and 
 
-3.1.4	 One (1) Arc Delegate; 
+        3.1.7 	One (1) Sponsorship Director 
 
-3.1.5 	One (1) Events Director; 
+    3.2 	One member is permitted to hold two Executive positions, provided that a minimum of three different members shall remain on the Executive at all times, with the exception that the positions of President and Treasurer may not be held by the same person.
 
-3.1.6 	One (1) Marketing Director; and 
+    3.3 	Job sharing of any Executive position is not permitted. 
 
-3.1.7 	One (1) Sponsorship Director 
+    3.4 	The Executive shall be responsible for the following duties:
 
+        3.4.1 	The activities of the club; 
 
+        3.4.2 	The finances of the club;
 
-3.2 	One member is permitted to hold two Executive positions, provided that a minimum of three
+        3.4.3 	Appointing members to the Committee; 
+            a)	Appointments will be made by majority vote of the executive. 
 
-different members shall remain on the Executive at all times, with the exception that the positions of President and Treasurer may not be held by the same person.
+    3.5	The Executive is at all times bound by the decisions of a club Annual or Extraordinary General Meeting. 
 
-3.3 	Job sharing of any Executive position is not permitted. 
+    3.6 	Any member of the Executive shall have their position declared vacant if they:
 
-3.4 	The Executive shall be responsible for the following duties:
+        3.6.1 	Die; 
 
-3.4.1 	The activities of the club; 
+        3.6.2 	Cease to be a member of the club; 
 
-3.4.2 	The finances of the club;
+        3.6.3 	Cease to be a UNSW student; 
 
-3.4.3 	Appointing members to the Committee;
+        3.6.4 	Are absent from any three (3) consecutive meetings of the club without apology or leave;
 
-a)	Appointments will be made by majority vote of the executive. 
+        or 
 
-3.5	The Executive is at all times bound by the decisions of a club Annual or Extraordinary General
+        3.6.5 	Have their position declared vacant at an Extraordinary General Meeting. 
 
-Meeting. 
+    3.7 	Any member of the Committee shall have their position declared vacant if they:
 
-3.6 	Any member of the Executive shall have their position declared vacant if they:
+        3.7.1 	Meet the criteria outlined in section 3.6; 
 
-3.6.1 	Die; 
+        or 
 
-3.6.2 	Cease to be a member of the club; 
+        3.7.2 	Are removed from their role by majority vote of the executive. 
 
-3.6.3 	Cease to be a UNSW student; 
+    3.8 	Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.
 
-3.6.4 	Are absent from any three (3) consecutive meetings of the club without apology or leave;
+    3.9 	Duties of the following Executive positions shall include but not be limited to:
 
-or 
+        3.9.1 	Co-presidents
 
-3.6.5 	Have their position declared vacant at an Extraordinary General Meeting. 
+            a) 	To chair all club, Committee, General and Annual General Meetings (held during their term) of the club or society; 
 
-3.7 	Any member of the Committee shall have their position declared vacant if they:
+            b) 	To oversee and coordinate the activities and administration of the club; 
 
-3.7.1 	Meet the criteria outlined in section 3.6; or 
+            c) 	To ensure that the elected officers of the club or society perform duties as laid down by the clubs’ Constitution, through regular e-mail updates, regularly advertised meetings, reports and notices and/or regular newsletters; 
 
-3.7.2 	Are removed from their role by majority vote of the executive. 
+            d) 	To ensure that all other tasks necessary for the running of the activities of the society are performed, properly either by doing them or delegating the duties; 
 
-3.8 	Any vacancy on the club Executive must be filled at an Extraordinary General Meeting, via the
+            e) 	To have a thorough knowledge of the club’s or society’s Constitution; 
 
-procedures outlined in Section 4.
+            f) 	To plan the coming year’s activities; 
 
-3.9 	Duties of the following Executive positions shall include but not be limited to:
+            g) 	To act as official spokesperson for the club; 
 
+            h) 	To arrive at a membership fee with the Executive;
 
+            i) 	To liaise with fellow office bearers;
 
-3.9.1 	Co-presidents
+            j) 	To acquaint each committee member with their function, responsibility, duties and maintain personal contact with them; 
 
-a) 	To chair all club, Committee, General and Annual General Meetings (held during
+            k) 	To liaise with Arc and departments of the University where necessary;
 
-their term) of the club or society; 
+            l) 	To ensure that an “Application for Affiliation” form accompanied by the minutes of the most recent Annual General Meeting and an updated membership list is submitted to Arc; 
 
-b) 	To oversee and coordinate the activities and administration of the club; 
+            m) 	To ensure that the Treasurer submits a Financial Report to the club at the AGM and to Arc and that they have the club’s finances in good order in preparation for Spot Audits by Arc; 
 
-c) 	To ensure that the elected officers of the club or society perform duties as laid
+            n) 	To ensure that Arc is informed of changes to the Executive; 
 
-down by the clubs’ Constitution, through regular e-mail updates, regularly advertised meetings, reports and notices and/or regular newsletters; 
+            o) 	To pass on their knowledge to their successor; and 
 
-d) 	To ensure that all other tasks necessary for the running of the activities of the
+            p) 	Other duties as in accordance with the Constitution of the club.
 
-society are performed, properly either by doing them or delegating the duties; 
+        3.9.2 	Secretary
 
-e) 	To have a thorough knowledge of the club’s or society’s Constitution; 
+            a) 	To be responsible for receiving and replying to all correspondence on behalf of the club; 
 
-f) 	To plan the coming year’s activities; 
+            b) 	To organise meetings, agendas (in consultation with the President), and minutes; 
 
-g) 	To act as official spokesperson for the club; 
+            c) 	To keep relevant club papers in order; 
 
-h) 	To arrive at a membership fee with the Executive;
+            d) 	To coordinate elections; and
 
-i) 	To liaise with fellow office bearers;
+            e) 	To maintain the membership list, updating when changes are made.
 
-j) 	To acquaint each committee member with their function, responsibility, duties
+        3.9.3 	Treasurer
 
-and maintain personal contact with them; 
+            a) 	To keep and maintain all club financial records; 
 
-k) 	To liaise with Arc and departments of the University where necessary;
+            b) 	To hold cheque books, petty cash tins etc; 
 
-l) 	To ensure that an “Application for Affiliation” form accompanied by the minutes of
+            c) 	To keep the club informed of its financial position at meetings, through regular e-mail reports, or regular newsletter; 
 
-the most recent Annual General Meeting and an updated membership list is submitted to Arc; 
+            d) 	To carry out financial transactions as directed by the club management; 
 
-m) 	To ensure that the Treasurer submits a Financial Report to the club at the AGM
+            e) 	To not lend money, under any circumstances to yourself, club members or other clubs; 
 
-and to Arc and that they have the club’s finances in good order in preparation for Spot Audits by Arc; 
+            f) 	To always ensure that the records are up to date and in good order so that if they are otherwise unable to continue in that capacity someone else can easily take over; 
 
-n) 	To ensure that Arc is informed of changes to the Executive; 
+            g) 	To not put the club in debt that cannot be repaid, but should endeavour to match costs and income as closely as possible; 
 
-o) 	To pass on their knowledge to their successor; and 
+            h) 	To always insist on a receipt or docket to validate any expenditure by the club; 
 
-p) 	Other duties as in accordance with the Constitution of the club.
+            i) 	To pay all accounts by cheque; 
 
+            j) 	To always enter the payees name, the cheque amount and a brief explanation of the payment on the cheque butt; 
 
+            k) 	To always provide a receipt to a person who gives money to the club for any reason and bank all money received IMMEDIATELY; 
 
-3.9.2 	Secretary
+            l)	To ensure you have at least two and not more than three signatories who are Executive members to the cheque account; 
 
-a) 	To be responsible for receiving and replying to all correspondence on behalf of
+            m) 	To ensure that club funds are not misused at any time; and 
 
-the club; 
+            n) 	To ensure that when smaller amounts of money are spent (petty cash) a receipt or docket must be obtained. 
 
-b) 	To organise meetings, agendas (in consultation with the President), and
+            o) 	Under no circumstances are any expenses to be met without documentation,
 
-minutes; 
+        3.9.4	Arc Delegate
 
-c) 	To keep relevant club papers in order; 
+            a) 	To be aware of the Arc funding system, it’s requirements and its possibilities for the club; 
 
-d) 	To coordinate elections; and
+            b) 	To communicate with the Executive before and after each Arc Clubs General Meeting to pass on information (about grants etc); 
 
-e) 	To maintain the membership list, updating when changes are made.
+            c) 	To liaise with Arc and the club’s Executive; 
 
+            d) 	To have a good working knowledge of Arc forms; 
 
+            e) 	To clear out the club’s pigeonhole in the Arc Resource Centre at least every two weeks; and 
 
-3.9.3 	Treasurer
+            f) 	To attend Arc Clubs General Meetings or nominate a fellow club member to attend on your behalf, or send advance apologies (taking the form of a written note detailing your name, club, and the date of the meeting you can not attend).
 
-a) 	To keep and maintain all club financial records; 
+        3.9.5 Events Director
 
-b) 	To hold cheque books, petty cash tins etc; 
+            a) 	To coordinate and supervise all club workshops; 
 
-c) 	To keep the club informed of its financial position at meetings, through regular
+            b) 	To work closely with the Co-presidents to organise all other club events; 
 
-e-mail reports, or regular newsletter; 
+            c) 	To ensure that the relevant working space for events is booked via the Arc 
 
-d) 	To carry out financial transactions as directed by the club management; 
+            Delegate or other means; and 
 
-e) 	To not lend money, under any circumstances to yourself, club members or other
+            d) 	To ensure that attendance is taken at all events;
 
-clubs; 
+        3.9.6 Marketing Director
 
-f) 	To always ensure that the records are up to date and in good order so that if
+            a) 	To design all promotional and marketing material for the club;
 
-they are otherwise unable to continue in that capacity someone else can easily take over; 
+            b)	To manage the club's various social media accounts and website; 
 
-g) 	To not put the club in debt that cannot be repaid, but should endeavour to match
+            c) 	To coordinate the design, purchase, and sale of all club merchandise; and 
 
-costs and income as closely as possible; 
+            d)	To design and release the club email newsletter, in collaboration with the Secretary.
 
-h) 	To always insist on a receipt or docket to validate any expenditure by the club; 
+        3.9.7 Partnership Director
 
-i) 	To pay all accounts by cheque; 
+            a) 	To form relationships between the club and external partners/sponsors; 
 
-j) 	To always enter the payees name, the cheque amount and a brief explanation of
+            b) 	To liaise with external partners/sponsors and inform the Co-presidents of developments; 
 
-the payment on the cheque butt; 
+            c) 	To work closely with the Events Director, the Co-presidents, the Marketing Director, and external sponsors for club event partnership/sponsorship; and 
 
-k) 	To always provide a receipt to a person who gives money to the club for any
-
-reason and bank all money received IMMEDIATELY; 
-
-l)	To ensure you have at least two and not more than three signatories who are
-
-Executive members to the cheque account; 
-
-m) 	To ensure that club funds are not misused at any time; and 
-
-n) 	To ensure that when smaller amounts of money are spent (petty cash) a receipt
-
-or docket must be obtained. 
-
-o) 	Under no circumstances are any expenses to be met without documentation,
-
-
-
-3.9.4	Arc Delegate
-
-a) 	To be aware of the Arc funding system, it’s requirements and its possibilities for
-
-the club; 
-
-b) 	To communicate with the Executive before and after each Arc Clubs General
-
-Meeting to pass on information (about grants etc); 
-
-c) 	To liaise with Arc and the club’s Executive; 
-
-d) 	To have a good working knowledge of Arc forms; 
-
-e) 	To clear out the club’s pigeonhole in the Arc Resource Centre at least every two
-
-weeks; and 
-
-f) 	To attend Arc Clubs General Meetings or nominate a fellow club member to
-
-attend on your behalf, or send advance apologies (taking the form of a written note detailing your name, club, and the date of the meeting you can not attend).
-
-
-
-3.9.5 Events Director
-
-a) 	To coordinate and supervise all club workshops; 
-
-b) 	To work closely with the Co-presidents to organise all other club events; 
-
-c) 	To ensure that the relevant working space for events is booked via the Arc 
-
-Delegate or other means; and 
-
-d) 	To ensure that attendance is taken at all events;
-
-
-
-3.9.6 Marketing Director
-
-a) 	To design all promotional and marketing material for the club;
-
-b)	To manage the club's various social media accounts and website; 
-
-c) 	To coordinate the design, purchase, and sale of all club merchandise; and 
-
-d)	To design and release the club email newsletter, in collaboration with the
-
-Secretary.
-
-
-
-3.9.7 Partnership Director
-
-a) 	To form relationships between the club and external partners/sponsors; 
-
-b) 	To liaise with external partners/sponsors and inform the Co-presidents of 
-
-developments; 
-
-c) 	To work closely with the Events Director, the Co-presidents, the Marketing
-
-Director, and external sponsors for club event partnership/sponsorship; and 
-
-d) 	To ensure the club endeavours to meet and uphold partnership/sponsorship 
-
-agreements.
-
-
+            d) 	To ensure the club endeavours to meet and uphold partnership/sponsorship agreements.
 
 4	Meetings
 
-
-
 Annual General Meetings
 
+    4.1 	There shall be one Annual General meeting every calendar year. 
 
+    4.2 	Notice in the form of an agenda for the Annual General Meeting shall be no less than seven (7) days, and is to be: 
 
-4.1 	There shall be one Annual General meeting every calendar year. 
+        4.2.1 	Given in writing to Arc; 
 
-4.2 	Notice in the form of an agenda for the Annual General Meeting shall be no less than seven (7)
+        4.2.2 	Given in writing to all club members, or upon approval by Arc displayed in a way that will guarantee an acceptable level of exposure among club members. 
 
-days, and is to be: 
+    4.3 	Quorum for the Annual General Meeting shall be fifteen members or one half of the club membership, whichever is the lesser. 
 
-4.2.1 	Given in writing to Arc; 
+    4.4 	At an Annual General Meeting:
 
-4.2.2 	Given in writing to all club members, or upon approval by Arc displayed in a way that will 
+        4.4.1 	Reports shall be presented by at least the President and the Treasurer; 
 
-guarantee an acceptable level of exposure among club members. 
+        4.4.2 	Full financial reports shall be presented and adopted; 
 
-4.3 	Quorum for the Annual General Meeting shall be fifteen members or one half of the club
+        4.4.3 	Elections for a new Executive shall be conducted; and 
 
-membership, whichever is the lesser. 
+        4.4.4 	Constitutional amendments and other motions on notice may be discussed and voted upon. 
 
-4.4 	At an Annual General Meeting:
-
-4.4.1 	Reports shall be presented by at least the President and the Treasurer; 
-
-4.4.2 	Full financial reports shall be presented and adopted; 
-
-4.4.3 	Elections for a new Executive shall be conducted; and 
-
-4.4.4 	Constitutional amendments and other motions on notice may be discussed and voted
-
-upon. 
-
-4.5 	Full minutes of this meeting, including a list of the new Executive, written financial reports, and 
-
-constitutional amendments, shall be forwarded to Arc within fourteen (14) days of the meeting.
-
-
+    4.5 	Full minutes of this meeting, including a list of the new Executive, written financial reports, and constitutional amendments, shall be forwarded to Arc within fourteen (14) days of the meeting.
 
 Extraordinary General Meetings
 
+    4.6 	There shall be Extraordinary General Meetings as the Executive sees fit or as petitioned under clause 4.8.
 
+    4.7 	The format, procedures, notice and quorum for an Extraordinary General Meeting shall be the same as for an Annual General Meeting, except that Executive elections will not be held unless specifically notified. 
 
-4.6 	There shall be Extraordinary General Meetings as the Executive sees fit or as petitioned under
+    4.8 	To petition Extraordinary General Meeting fifteen (15) members or half of the club membership, whichever is the lesser, must petition the Executive in writing. 
 
-clause 4.8.
+    4.9 	Such a petitioned meeting must be held within twenty-one (21) days, but no sooner than seven (7) days. 
 
-4.7 	The format, procedures, notice and quorum for an Extraordinary General Meeting shall be the
-
-same as for an Annual General Meeting, except that Executive elections will not be held unless 
-
-specifically notified. 
-
-4.8 	To petition Extraordinary General Meeting fifteen (15) members or half of the club membership,
-
-whichever is the lesser, must petition the Executive in writing. 
-
-4.9 	Such a petitioned meeting must be held within twenty-one (21) days, but no sooner than seven
-
-(7) days. 
-
-4.10 	There shall be other general meetings of the club as the Executive sees fit.
-
-
+    4.10 	There shall be other general meetings of the club as the Executive sees fit.
 
 Meetings
 
+    4.11 	General requirements for all meetings are as follows:
 
+        4.11.1 	All voting at meetings shall be with a simple majority required for a resolution to be passed; 
 
-4.11 	General requirements for all meetings are as follows:
+        4.11.2 	Each member is entitled to one vote; 
 
-4.11.1 	All voting at meetings shall be with a simple majority required for a resolution to be 
+        4.11.3 	Proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
 
-passed; 
+        4.11.4 	In the case of equality of voting the President shall have a casting vote; 
 
-4.11.2 	Each member is entitled to one vote; 
+        4.11.5 	Elections for Executive shall use the “first past the post” system; 
 
-4.11.3 	Proxies shall be allowed in meetings and the procedure shall comply with the 
+        4.11.6	Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting; 
 
-requirements of Arc;
-
-4.11.4 	In the case of equality of voting the President shall have a casting vote; 
-
-4.11.5 	Elections for Executive shall use the “first past the post” system; 
-
-4.11.6	Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting; 
-
-4.11.7 	Constitutional changes passed at an Annual or Extraordinary General Meeting must be
-
-approved by Arc for the Club to remain affiliated with Arc.
-
-
+        4.11.7 	Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
 
 5 	Finance
 
+    5.1 	The club shall hold an account with a financial institution approved by Arc. 
 
+    5.2 	The Executive must approve all accounts and expenditures for payment. 
 
-5.1 	The club shall hold an account with a financial institution approved by Arc. 
+    5.3 	All financial transactions shall require two signatures of members of the Executive. 
 
-5.2 	The Executive must approve all accounts and expenditures for payment. 
+    5.4 	The Co-presidents and the Treasurer shall be the signatories to the society’s account(s). 
 
-5.3 	All financial transactions shall require two signatures of members of the Executive. 
-
-5.4 	The Co-presidents and the Treasurer shall be the signatories to the society’s account(s). 
-
-5.5 	The financial records of the club shall be open for inspection by Arc at all times.
-
-
+    5.5 	The financial records of the club shall be open for inspection by Arc at all times.
 
 6 	Dissolution
 
+    6.1 	Dissolution of the club will occur after the following conditions have been met:
 
+        6.1.1 	An Extraordinary General Meeting is petitioned in writing as set out in 4.8; 
 
-6.1 	Dissolution of the club will occur after the following conditions have been met:
+        6.1.2	Procedures for notification as set out in 4.2 are followed, and the reasons for the proposed dissolution are included with the notification to Arc; 
 
-6.1.1 	An Extraordinary General Meeting is petitioned in writing as set out in 4.8; 
+        6.1.3 	Quorum for the meeting to dissolve the club shall be twenty (20) members or three-quarters of the club membership, whichever is the lesser;
 
-6.1.2	Procedures for notification as set out in 4.2 are followed, and the reasons for the 
+        6.1.4 	No other business may be conducted at the meeting to dissolve the club; 
 
-proposed dissolution are included with the notification to Arc; 
+        6.1.5 	After the petitioning body has stated its case any opposition must be given the    opportunity to reply, with at least ten minutes set aside for this purpose; 
 
-6.1.3 	Quorum for the meeting to dissolve the club shall be twenty (20) members or
+        6.1.6 	A vote is taken and the motion to dissolve lapses if opposed by fifteen (15) or more members of the club; 
 
-three-quarters of the club membership, whichever is the lesser;
+        6.1.7	If the motion to dissolve is carried, Arc must be notified within fourteen (14) days.
 
-6.1.4 	No other business may be conducted at the meeting to dissolve the club; 
+    6.2 	Dissolution of the club will also occur if the club has been financially and administratively inactive for a period of eighteen (18) months. 
 
-6.1.5 	After the petitioning body has stated its case any opposition must be given the    
+    6.2.1	Arc must give twenty (20) academic days notice in an official Arc publication and in writing to the last known President before dissolving the club in this way.
 
-opportunity to reply, with at least ten minutes set aside for this purpose; 
+    6.3 	On dissolution of the club, the club is not to distribute assets to members. All assets are to  distributed to an organisation with similar goals or objectives that also prohibits the distribution of assets to members. This organisation may be nominated at the dissolution meeting of the club. If no other legitimate club or organisation is nominated, Arc will begin procedures to recover any property, monies or records belonging to the club which it perceives would be useful to other Arc-affiliated clubs. The club will be given twenty one (21) days to forward all relevant items to Arc before any action is instigated.
 
-6.1.6 	A vote is taken and the motion to dissolve lapses if opposed by fifteen (15) or more 
-
-members of the club; 
-
-6.1.7	If the motion to dissolve is carried, Arc must be notified within fourteen (14) days.
-
-6.2 	Dissolution of the club will also occur if the club has been financially and administratively inactive
-
-for a period of eighteen (18) months. 
-
-6.2.1	Arc must give twenty (20) academic days notice in an official Arc publication and in writing to the last known President before dissolving the club in this way.
-
-6.3 	On dissolution of the club, the club is not to distribute assets to members. All assets are to  
-
-distributed to an organisation with similar goals or objectives that also prohibits the distribution of 
-
-assets to members. This organisation may be nominated at the dissolution meeting of the club. If 
-
-no other legitimate club or organisation is nominated, Arc will begin procedures to recover any 
-
-property, monies or records belonging to the club which it perceives would be useful to other 
-
-Arc-affiliated clubs. The club will be given twenty one (21) days to forward all relevant items to 
-
-Arc before any action is instigated.
+```
