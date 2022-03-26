@@ -1,4 +1,3 @@
-# Arc @ UNSW Limited
 # PCSoc: Computers and Tech CONSTITUTION
 Arc @ UNSW Limited
 Computer Enthusiasts Society
